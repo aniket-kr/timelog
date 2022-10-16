@@ -1,0 +1,12 @@
+# IDE config
+.vscode/
+.idea/
+
+# virtualenv
+venv/
+
+# passkeys and secrets
+secrets/
+
+# python trash files
+**/__pycache__/
